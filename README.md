@@ -1,5 +1,6 @@
 
 
+
 # Holberton School - Core Engineering
 
 
@@ -18,3 +19,6 @@ This repository contains my exercises and projects from the holberton School Cor
 ## Author
 
 Jose A. Diaz Rivera
+
+
+
