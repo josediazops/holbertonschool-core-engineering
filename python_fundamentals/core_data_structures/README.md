@@ -12,3 +12,4 @@ This directory contains Python exercises about lists and other core data structu
 | `add_tuple.py` | Adds two tuples and returns a tuple of two integers |
 | `common_elements.py` | Returns the elements two sets have in common |
 | `update_dictionary.py` | Replaces or adds a key/value pair in a dictionary |
+| `best_score.py` | Returns the key with the biggest integer value |
