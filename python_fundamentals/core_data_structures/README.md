@@ -9,3 +9,4 @@ This directory contains Python exercises about lists and other core data structu
 | `print_list_integer.py` | Prints all integers of a list, one per line |
 | `replace_in_list.py` | Replaces an element of a list at a given index |
 | `print_matrix_integer.py` | Prints a matrix of integers, one row per line |
+| `add_tuple.py` | Adds two tuples and returns a tuple of two integers |
