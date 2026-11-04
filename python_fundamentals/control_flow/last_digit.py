@@ -1,4 +1,4 @@
-#!/usr/bin/envpython3
+#!/usr/bin/env python3
 number = __import__('random').randint(-10000, 10000)
 
 digit = abs(number) % 10
