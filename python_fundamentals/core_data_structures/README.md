@@ -10,3 +10,4 @@ This directory contains Python exercises about lists and other core data structu
 | `replace_in_list.py` | Replaces an element of a list at a given index |
 | `print_matrix_integer.py` | Prints a matrix of integers, one row per line |
 | `add_tuple.py` | Adds two tuples and returns a tuple of two integers |
+| `common_elements.py` | Returns the elements two sets have in common |
