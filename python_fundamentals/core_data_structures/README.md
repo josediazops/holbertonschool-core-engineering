@@ -7,3 +7,4 @@ This directory contains Python exercises about lists and other core data structu
 | File | Description |
 |------|-------------|
 | `print_list_integer.py` | Prints all integers of a list, one per line |
+| `replace_in_list.py` | Replaces an element of a list at a given index |
