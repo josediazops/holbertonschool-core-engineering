@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
 
-import string
-print(string.ascii_lowercase.replace("q", "").replace("e", ""))
+for letter in range(97, 123):
+    if letter != 101 and letter != 113:
+        print("{:c}".format(letter), end="")
