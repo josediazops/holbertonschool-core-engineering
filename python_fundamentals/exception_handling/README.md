@@ -6,3 +6,4 @@ Files
 
 file: safe_print_list.py
 description: Prints a specified number of elements from a list and returns the actual number printed
+| `safe_print_integer.py` | Safely prints an integer and returns True or False depending on whether formatting succeeds |
