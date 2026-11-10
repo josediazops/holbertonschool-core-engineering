@@ -10,3 +10,4 @@ description: Prints a specified number of elements from a list and returns the a
 | `safe_print_list_integer.py` | Prints the first x integer elements of a list and returns the number printed |
 | `safe_print_division.py` | Safely divides two integers, handles exceptions, print the resul, and returns it |
 | `raise_print_division.py` | Defines a function that intentionally raises a TypeError |
+| `raise_exception_msg.py` | Defines a fuction that raises a NameError with a custom message |
