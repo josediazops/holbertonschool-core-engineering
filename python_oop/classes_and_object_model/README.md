@@ -41,3 +41,15 @@ Introduce the encapsulation principle.
 - Learn how methods interact with instance attrubutes.
 - Calculate the area of a square using its side length.
 - Understand how to call methods through and object.
+
+
+### 5. Access and Update Private Attrubute
+**Requirements:**
+- Add a getter for `size`.
+- Add a setter for `size`.
+- The setter must validate that the value is an integer.
+- the setter must reject negative value.
+- Use the required errir messages:
+    - `size must be an integer`
+    - `size must be >= 0`
+    
