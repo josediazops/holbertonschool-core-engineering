@@ -20,3 +20,13 @@
 - Learn how to create an object using `--init--`.
 - Understandprivate attributes and name mangling.
 Introduce the encapsulation principle.
+
+
+## Task 3: Size Validation
+
+### Learning Objectives
+
+- Understand input validation.
+- Learn the difference between TypeError and ValueError.
+- Validate an instance attrubute before storing it. 
+- Use exceotins to prevent invalid object stage.
