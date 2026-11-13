@@ -30,3 +30,14 @@ Introduce the encapsulation principle.
 - Learn the difference between TypeError and ValueError.
 - Validate an instance attrubute before storing it. 
 - Use exceotins to prevent invalid object stage.
+
+
+## Task 4: Area of a Square
+
+### Learning Objectives
+
+
+- Understand instance methods.
+- Learn how methods interact with instance attrubutes.
+- Calculate the area of a square using its side length.
+- Understand how to call methods through and object.
