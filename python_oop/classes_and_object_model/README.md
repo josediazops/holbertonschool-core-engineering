@@ -52,4 +52,13 @@ Introduce the encapsulation principle.
 - Use the required errir messages:
     - `size must be an integer`
     - `size must be >= 0`
-    
+
+
+### 6. printing a Square
+
+**Objective** Implement a public instance method `my_print()` that printd a square using the `#` character.
+
+**Requierments:**
+- Print the square using the object's current size.
+- Each row must contain the correct number of `#` characters.
+- Print an empty line when size is 0.
