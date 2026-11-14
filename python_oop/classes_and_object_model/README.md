@@ -62,3 +62,16 @@ Introduce the encapsulation principle.
 - Print the square using the object's current size.
 - Each row must contain the correct number of `#` characters.
 - Print an empty line when size is 0.
+
+
+### 7. Print Square Instance
+
+**Objective:** Control how Square objects are represented as strings.
+
+**Requirements:**
+- Add a private `position` attribute.
+- Add a getter and setter for `position`.
+- Validate that position is a tuple of two non-negative integers.
+- Implement `__str__()` to return the square as a string.
+- Update `my_print()` to return the square's position.
+- Allow optional `size` and `position` arguments in the constructor.
