@@ -93,3 +93,13 @@ Introduce the encapsulation principle.
     - `height must be an integer`
     - `height must be >= 0`
 - Implement a constructor with optional width and height, both defaulting to 0.
+
+
+### 9. Area and Perimeter
+
+**Objective:** Implement behavior for the rectangle class.
+
+**Requirements:**
+- Add an `area()` instance method that returns the rectangle's area.
+- Add a `perimeter()` instance method that returns the rectangle's perimeter.
+- If `width` or `height` is equal to `0`, the perimeter must be `0`.
