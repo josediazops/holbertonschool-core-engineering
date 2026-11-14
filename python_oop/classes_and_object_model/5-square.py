@@ -31,11 +31,10 @@ class Square:
             raise ValueError("size must be >= 0")
         self.__size = svalue
 
-
-def my_print(self):
-    """Prints the square using the "#" character."""
-    if self.__size == 0:
-        print()
-    else:
-        for i in range(self.__size):
-            print("#" * self.__size)
+    def my_print(self):
+        """Prints the square using the "#" character."""
+        if self.__size == 0:
+            print()
+        else:
+            for i in range(self.__size):
+                print("#" * self.__size)
