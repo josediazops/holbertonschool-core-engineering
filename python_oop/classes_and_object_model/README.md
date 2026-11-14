@@ -75,3 +75,21 @@ Introduce the encapsulation principle.
 - Implement `__str__()` to return the square as a string.
 - Update `my_print()` to return the square's position.
 - Allow optional `size` and `position` arguments in the constructor.
+
+
+### 8. Rectangle Class
+
+**Objective:** Reinforce object modeling with a second class.
+
+**Requirements:**
+- Define a `Rectangle` class.
+- Add private `width` and `height` attributes.
+- Implement getters and setters for both attributes.
+- Validate that both values are integers.
+- Reject negative values.
+- Use the required error messages:
+    - `width must be an integer`
+    - `width must be >= 0`
+    - `height must be an integer`
+    - `height must be >= 0`
+- Implement a constructor with optional width and height, both defaulting to 0.
