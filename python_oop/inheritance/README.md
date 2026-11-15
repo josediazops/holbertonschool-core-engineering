@@ -87,3 +87,13 @@ Requirements
 - Store size as a private attribute.
 - Initialize the parent Rectangle with equal width and height.
 - Implement area().
+
+
+### 5. Square #2
+
+**Objective:** Customize the Square string representation.
+
+**Requirements:**
+- Implement __str__().
+- Return the format [Square] <width>/<height>.
+- Preserve inherited area() behavior.
