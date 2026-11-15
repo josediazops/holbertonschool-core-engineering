@@ -57,3 +57,21 @@ Requirements
 - Reuse parent class methods.
 - Understand private attributes.
 - Apply inheritance to validate object data.
+
+
+### 3. Full Rectangle
+
+**Objective:** Extend the Rectangle class with area calculation and a readable string representation.
+
+**Requirements:**
+- Validate width and height using the inherited integer_validator().
+- Store width and height as private attributes.
+- Implement area() to calculate the rectangle's area.
+- Implement __str__() to return the format [Rectangle] <width>/<height>.
+- Do not create getters or setters.
+
+**Learning Objectives:**
+- Implement inherited methods.
+- Calculate an object's area.
+- Customize an object's string representation.
+- Understand polymorphism through a common interface.
