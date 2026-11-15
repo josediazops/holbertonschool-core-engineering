@@ -75,3 +75,15 @@ Requirements
 - Calculate an object's area.
 - Customize an object's string representation.
 - Understand polymorphism through a common interface.
+
+
+### 4. Square #1
+
+**Objective:** Create a Square class that inherits from Rectangle.
+
+**Requirements:**
+- Accept one size parameter.
+- Validate size using inherited integer_validator().
+- Store size as a private attribute.
+- Initialize the parent Rectangle with equal width and height.
+- Implement area().
