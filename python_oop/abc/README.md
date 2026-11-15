@@ -24,3 +24,14 @@ Create an abstract Shape class and implement Circle and Rectangle.
 - Duck typing
 - Polymorphism
 
+
+## Task 2: Multiple Inheritance
+
+### Objective
+Create Fish and Bird parent classes and a FlyingFish
+subclass that inherits from both.
+
+### Concepts
+- Multiple inheritance
+- Method overriding
+- Method Resolution Order (MRO)
