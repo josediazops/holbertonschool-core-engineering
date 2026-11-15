@@ -48,3 +48,15 @@ behaviors using mixins.
 - Multiple inheritance
 - Code reuse
 - Class composition
+
+
+## Task 4: Extending the Python List
+
+### Objective
+Create a `VerboseList` class that inherits from Python's built-in `list` class and prints notifications when items are added or removed.
+
+### Concepts
+- Inheritance from built-in classes
+- Method overriding
+- `super()` to call parent class methods
+- List methods: `append()`, `extend()`, `remove()`, and `pop()`
