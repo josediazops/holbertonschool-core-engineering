@@ -41,3 +41,19 @@ Requirements
 - Raise exceptions.
 - Validate data types and values.
 - Reuse methods through inheritance.
+
+
+### 2. Rectangle
+
+**Objective:** Create a Rectangle class that inherits from BaseGeometry.
+
+**Requirements:**
+- Accept width and height during initialization.
+- Store both values as private attributes.
+- Validate both values using the inherited integer_validator() method.
+- Do not create getters or setters.
+
+**Learning Objectives:**
+- Reuse parent class methods.
+- Understand private attributes.
+- Apply inheritance to validate object data.
