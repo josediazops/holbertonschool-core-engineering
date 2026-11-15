@@ -35,3 +35,16 @@ subclass that inherits from both.
 - Multiple inheritance
 - Method overriding
 - Method Resolution Order (MRO)
+
+
+## Task 3: Mastering Mixins
+
+### Objective
+Create a Dragon class that combines swimming and flying
+behaviors using mixins.
+
+### Concepts
+- Mixins
+- Multiple inheritance
+- Code reuse
+- Class composition
