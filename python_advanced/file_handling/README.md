@@ -15,7 +15,8 @@ Working with input and output is a fundamental aspect of programming, as it allo
 ## Files
 
 | File | Description |
-| `read_file.py` |    |
+| `read_file.py` | Reads the contents of a specified file. |
+| `write_file.py` | Writes the contents of a specific file. |
 
 ## Requirements
 
