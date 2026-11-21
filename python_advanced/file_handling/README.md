@@ -17,6 +17,7 @@ Working with input and output is a fundamental aspect of programming, as it allo
 | File | Description |
 | `read_file.py` | Reads the contents of a specified file. |
 | `write_file.py` | Writes the contents of a specific file. |
+| `append_write.py` | Append a string to a UTF-8 text file and return the character count. |
 
 ## Requirements
 
